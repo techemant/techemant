@@ -1,0 +1,12 @@
+- 👋 Hi, I’m @Hemant Sharma  
+- 👀 I’m cuurently working as Devops Engineer for HyperAutomation Platform Team on AI Projects
+- 🌱 I’m currently deepening my knowledge in AI,Machine Learning, DevOps Tools.
+- 💞️ I’m looking to collaborate on building wonderful projects
+- 📫 How to reach me Linkedin : https://www.linkedin.com/in/hemant-sharma1/
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+
+<!---
+techemant/techemant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
