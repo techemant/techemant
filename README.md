@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hemant Sharma  
-- 👀 I’m cuurently working as Devops Engineer for HyperAutomation Platform Team on AI Projects
+- 👀 I’m currently working as Devops Engineer for HyperAutomation Platform Team on AI Projects
 - 🌱 I’m currently deepening my knowledge in AI,Machine Learning, DevOps Tools.
 - 💞️ I’m looking to collaborate on building wonderful projects
 - 📫 How to reach me Linkedin : https://www.linkedin.com/in/hemant-sharma1/
