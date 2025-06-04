@@ -3,8 +3,7 @@
 - 🌱 I’m currently deepening my knowledge in AI,Machine Learning, DevOps Tools.
 - 💞️ I’m looking to collaborate on building wonderful projects
 - 📫 Linkedin : https://www.linkedin.com/in/hemant-sharma1/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: You have to be stronger than your excuses!!
 
 <!---
 techemant/techemant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
